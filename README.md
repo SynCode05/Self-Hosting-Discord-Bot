@@ -1,4 +1,4 @@
-<h1>Self-Bot</h1>
+Self-Bot
 Start by using `npm i` 
 Use `node index.js`
 Use `node configure.js`

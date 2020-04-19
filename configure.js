@@ -52,4 +52,4 @@ defs._owner = owner;
 defs._guild = guild;
 defs._welcome = welcome;
 fs.writeFileSync("configuration.json", JSON.stringify(defs, null, 2));
-console.log("Wrote the settings. You can now use 'node index.js' to launch the modmail bot.");
+console.log("Wrote the settings. You can now use 'node index.js' to launch the AutoBot.");
